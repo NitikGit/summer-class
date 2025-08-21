@@ -1,0 +1,6 @@
+.active {
+  background: rgba(255,255,255,0.08);
+  color: var(--color-soft);
+  border-radius: 8px;
+}
+
